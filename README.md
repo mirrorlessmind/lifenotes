@@ -1,7 +1,7 @@
 # Life Notes App DB Template  
 
 ## Languages & Technology Involved
-Featuring: MySQL,Heroku, Node.js, ES6+,CSS, npm modules required Dependencies
+Featuring: Heroku, Node.js, ES6+,CSS, npm modules required Dependencies
 
 
 ## Table of Contents
