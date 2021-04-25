@@ -1,0 +1,16 @@
+{
+  "name": "lifenotes",
+  "version": "1.0.0",
+  "description": "Awesome app that will save,, write and delete yournotes",
+  "main": "./Develop/public/assets/js/index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "Cigi Tipton",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^25.0.0"
+  }
+}
+
