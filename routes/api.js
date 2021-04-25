@@ -1,15 +1,10 @@
-// ===============================================================================
-// LOAD DATA
-// We are linking our routes to a series of "data" sources.
-// These data sources hold arrays of information on table-data, waitinglist, etc.
-// ===============================================================================
-const fs = require('fs');
+/ linking routes to data sources
+const express = require('express');
+const apiRouter = express.Router();
 
-// ===============================================================================
-// ROUTING
-// ===============================================================================
-
-module.exports = function(app) {
+let data;
+const fileData = await fs.readFile(dbFilePath, 'utf-8');
+data = JSON.parse(fileData)
 
   // API Get Request required Routes - one for the index, one for the notes
   app.get('/api/notes', function(req, res) {
@@ -22,7 +17,7 @@ module.exports = function(app) {
 
   // These are the API POST Requests when a user submits a form
   // JSON object is pushed to JS array causing the server to save to array
-  // ---------------------------------------------------------------------------
+
 
   app.post('/api/notes', function(req, res) {
     const userNotes = req.body;
