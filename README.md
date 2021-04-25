@@ -20,11 +20,15 @@ This is note taking app that will allow user to track information utilizing note
 ## Link to Video:
 Cigi's Walkthrough "https://vimeo.com/538257370/1be3a0b5e6"
 
+##Heroku App Deployed
+
+<a href="https://young-lowlands-81338.herokuapp.com/notes" rel="nofollow">LifeNotes</a>
+
 ## Contributing Partners ✨
-TAs, tutorials
+TAs, tutorials, tea
 
 ## Installation 💻
-Please run npm install, start my sql to use this app
+Please run npm install for dependencies and then run node server.js
 
 ## License 😎
 "https://opensource.org/licenses/MIT"
