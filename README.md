@@ -16,10 +16,10 @@ Featuring: Heroku, Node.js, ES6+,CSS, npm modules required Dependencies
 Easy UI for a user to create lists.
 
 ## Description 🔥
-This is a software engineering team generator command line application. The application will prompt the user for information about the team manager and then information about the team members. When the user has completed the form, the application will create an HTML file that displays a team roster based on the information provided by the user. 
+This is note taking app that will allow user to add or delete notes with the Heroku app.
 
 ## Link to Video:
-Cigi's Walkthrough "https://youtu.be/mYk7eNR0Idc"
+Cigi's Walkthrough ""
 
 ## Contributing Partners ✨
 TAs, tutorials
