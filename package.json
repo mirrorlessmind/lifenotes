@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "jest": "^25.0.0"
+    "inquirer": "^8.0.0",
+    "jest": "^25.5.4"
   }
 }
-
