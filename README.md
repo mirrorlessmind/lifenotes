@@ -17,10 +17,10 @@ Easy UI for a user to create lists. Start by using the button on the home page. 
 ## Description 🔥
 This is note taking app that will allow user to track information utilizing note ids.
 
-## Link to Video:
+## Link to Video & App:
 Cigi's Walkthrough "https://vimeo.com/538257370/1be3a0b5e6"
 
-##Heroku App Deployed
+Heroku App Deployed
 
 <a href="https://young-lowlands-81338.herokuapp.com/notes" rel="nofollow">LifeNotes</a>
 
