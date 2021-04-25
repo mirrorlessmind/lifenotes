@@ -1,7 +1,7 @@
 # Life Notes App DB Template  
 
 ## Languages & Technology Involved
-Featuring: Heroku, Node.js, ES6+,CSS, npm modules required Dependencies
+Featuring: Heroku, Node.js,JSON, ES6+,CSS, npm modules.
 
 
 ## Table of Contents
@@ -10,16 +10,15 @@ Featuring: Heroku, Node.js, ES6+,CSS, npm modules required Dependencies
 - [Contributing](#contributing)
 - [Installation](#installation)
 - [License](#license)
-- [Tests](#tests)
 - [Questions](#questions)
 ## Usage
-Easy UI for a user to create lists.
+Easy UI for a user to create lists. Start by using the button on the home page. Start creating notes, deleting notes and saving notes.
 
 ## Description 🔥
-This is note taking app that will allow user to add or delete notes with the Heroku app.
+This is note taking app that will allow user to track information utilizing note ids.
 
 ## Link to Video:
-Cigi's Walkthrough ""
+Cigi's Walkthrough "https://vimeo.com/538257370/1be3a0b5e6"
 
 ## Contributing Partners ✨
 TAs, tutorials
@@ -32,7 +31,7 @@ Please run npm install, start my sql to use this app
 
 This application is covered by the MIT license. Please refer to documention for further information.
 
-## Test
+## Demo Images
 ![Demo Image](demo.jpg?raw=true "Demo Image")
 
 ## What do I do if I have an issue? 😔
